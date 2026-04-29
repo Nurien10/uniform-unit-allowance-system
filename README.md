@@ -96,19 +96,19 @@ Description: Displays overview of programs, attendance, allowance, contact and a
 ## 🧩 Module: Registration
 
 ### Sign Up Page (Units High Council)
-![Sign Up]((https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124059.png?raw=true))
+![Sign Up](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124059.png?raw=true)
 Description: Registration page for Units High Council to create new account.
 
 ---
 
 ### Login Page (Units High Council)
-![Login]((https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124119.png?raw=true))
+![Login](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124119.png?raw=true)
 Description: Login page used for authentication.
 
 ---
 
 ### Update Profile Page
-![Update Profile]((https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124128.png?raw=true))
+![Update Profile](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124128.png?raw=true)
 Description: Allows users to update personal information.
 
 ---
