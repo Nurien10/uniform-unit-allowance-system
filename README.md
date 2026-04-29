@@ -120,7 +120,7 @@ Description: Displays list of registered unit members.
 ---
 
 ### View Registered Trainers
-![Trainers List](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124150.png?raw=true))
+![Trainers List](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124150.png?raw=true)
 Description: Displays list of registered trainers.
 
 ---
@@ -148,19 +148,19 @@ Description: Unit members mark attendance or upload proof if absent.
 ---
 
 ### View Attendance (Unit Members)
-![Attendance Member](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124229.png?raw=true))
+![Attendance Member](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124229.png?raw=true)
 Description: Shows attendance history for unit members.
 
 ---
 
 ### View Attendance (UHC)
-![Attendance UHC]((https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124240.png?raw=true))
+![Attendance UHC](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124240.png?raw=true)
 Description: UHC can monitor attendance records.
 
 ---
 
 ### View Attendance (UT)
-![Attendance UT](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124249.png?raw=true))
+![Attendance UT](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124249.png?raw=true)
 Description: Trainers can verify attendance records.
 
 ---
@@ -194,13 +194,13 @@ Description: Payment processing interface for allowance distribution.
 ---
 
 ### Payment Confirmation
-![Payment Confirmation]((https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124456.png?raw=true))
+![Payment Confirmation](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124456.png?raw=true)
 Description: Shows successful payment confirmation.
 
 ---
 
 ### Payment Status (Unit Members)
-![Payment Status]((https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124503.png?raw=true))
+![Payment Status](https://github.com/Nurien10/uniform-unit-allowance-system/blob/main/Screenshot%202026-04-29%20124503.png?raw=true)
 Description: Unit members can view their payment status.
 
 
